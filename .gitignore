@@ -1,0 +1,35 @@
+# ---- Keil MDK / ARMCC build outputs ----
+Objects/
+Listings/
+DebugConfig/
+RTE/_*/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.sct
+*.htm
+*.plg
+*.tra
+*.scvd
+*.build_log.htm
+*.__i
+*._ia
+
+# ---- Keil per-user settings ----
+*.uvguix.*
+*.uvoptx
+
+# ---- misc ----
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
