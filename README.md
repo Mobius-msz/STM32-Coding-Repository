@@ -6,15 +6,16 @@ STM32F103 学习与练习工程集合，包含 HAL 库与标准库（SPL）两�
 
 | 目录 | 内容 | 工程数量 |
 | --- | --- | --- |
+| `ASC任务/` | ASC 任务工程（标准库，STM32F407） | 1 |
 | `HAL/` | HAL 库工程（CubeMX + Keil MDK） | 13 |
 | `整理/SPL/江协代码复习/` | 标准库复习工程 | 9 |
 | `江协课程代码/` | 江协科技教程配套例程（标准库） | 36 |
 
 ## 开发环境
 
-- MCU：STM32F103C8T6（部分工程为 STM32F103xB 系列）
+- MCU：STM32F103C8T6（部分工程为 STM32F103xB 系列）；`ASC任务/` 为 STM32F407
 - IDE：Keil MDK（uVision 5）
-- 库：STM32F10x 标准外设库 / STM32F1 HAL 库
+- 库：STM32F10x 标准外设库 / STM32F1 HAL 库 / STM32F4xx 标准外设库（`ASC任务/`）
 
 ## 使用方法
 

@@ -28,6 +28,12 @@ RTE/_*/
 *.uvguix.*
 *.uvoptx
 
+# ---- vendor device packs / archives (too large for git) ----
+*.pack
+*.7z
+*.zip
+*.rar
+
 # ---- misc ----
 Thumbs.db
 desktop.ini
